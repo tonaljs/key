@@ -1,0 +1,27 @@
+{
+  "name": "@tonaljs/key",
+  "version": "3.0.0",
+  "description": "Functions to work with midi numbers",
+  "keywords": [
+    "note",
+    "midi",
+    "music",
+    "theory",
+    "@tonaljs/tonal"
+  ],
+  "main": "dist/index.es5.js",
+  "module": "dist/index.esnext.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@tonaljs/tonal": "^3.0.0",
+    "@tonaljs/array": "^3.0.0",
+    "@tonaljs/mode": "^3.0.0",
+    "@tonaljs/note": "^3.0.0",
+    "@tonaljs/pcset": "^3.0.0"
+  },
+  "author": "danigb@gmail.com",
+  "license": "MIT"
+}
